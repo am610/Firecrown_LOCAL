@@ -9,3 +9,5 @@ The input data vectors are kept in `sndata` folder
 Inputs require : 1. Hubble diagram - `data.txt` and 2. Covariance matrix - `sys_0.txt` 
 
 Sampling details are set in .ini file
+
+An example script to submit job in CORI with these inputs is stored in `submit_job.sh`
