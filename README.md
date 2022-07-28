@@ -4,8 +4,8 @@ Demonstration of SN focussed utilities. Notebooks are kept in Notebook dir. Thes
 
 The likelihood details can be seen in `sn_srd.py` file. 
 
-The input data vectors are kept in sndata folder
+The input data vectors are kept in `sndata` folder
 
-Inputs require : 1. Hubble diagram - data.txt and 2. Covariance amtrix - sys_0.txt 
+Inputs require : 1. Hubble diagram - `data.txt` and 2. Covariance matrix - `sys_0.txt` 
 
 Sampling details are set in .ini file
