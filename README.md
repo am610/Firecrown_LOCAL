@@ -1,5 +1,5 @@
 # Firecrown_LOCAL
-#For Local hacks
+
 Demonstration of SN focussed utilities. Notebooks are kept in Notebook dir. These results are based on runs in CORI, NERSC. Similar runs are also being prepared in RCC-Midway system. A starter pack for the Midway system is already prepared. 
 
 The likelihood details can be seen in `sn_srd.py` file. 
