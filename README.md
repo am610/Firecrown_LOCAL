@@ -1,4 +1,4 @@
-# Firecrown_LOCAL
+# Firecrown SN Tutorial
 
 Demonstration of SN focussed utilities. Tutorial notebooks are kept in `Notebook` dir. These results are based on runs in CORI, NERSC. Similar runs are also being prepared in RCC-Midway system. A starter pack for the Midway system is already prepared. 
 
