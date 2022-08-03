@@ -17,3 +17,5 @@ For custom input files, the notebook `Firecrown_SACC.ipynb` can be consulted.
 Sampling details are set in .ini file
 
 An example script to submit job in CORI with these inputs is stored in `submit_job.sh`
+
+The output is stored in `output` directory. For plots and visualization, the `Firecrown_PLOT.ipynb` can be consulted. 
