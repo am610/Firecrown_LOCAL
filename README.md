@@ -19,3 +19,4 @@ Sampling details are set in .ini file. An example file : `sn_srd_planck_bao.ini`
 An example script to submit job in CORI with these inputs, is stored in `submit_job.sh`
 
 The output is stored in `output` directory. For plots and visualization, the `Firecrown_Plot.ipynb` can be consulted. 
+A file named `Resource` is created for runtime estimations using cosmosis.
