@@ -1,15 +1,18 @@
-Below is a comparison between `cosmosis + firecrown` and `WFIT` which is a fast cosmology fitter. 
+Below is a comparison of runtimes, between `cosmosis + firecrown` and `WFIT` which is a fast cosmology fitter. 
 
-*WFIT* ~ 15 𝐻𝑟𝑠 for 50 simulation samples X 10 systematics X 2 cosmological model
+------------------------------------------------------------------------------------------
+WFIT ~ 15 𝐻𝑟𝑠 for 50 simulation samples X 10 systematics X 2 cosmological model
 
+z-Binned Hubble Diagram
+WFIT ~ 0.03 𝑚𝑖𝑛𝑠 for 1 simulation sample X 1 systematics (𝑤𝐶𝐷𝑀)   ( and ~ 1 𝑚𝑖𝑛𝑠 UNBINNED )
+WFIT ~ 2    𝑚𝑖𝑛𝑠 for 1 simulation sample X 1 systematics (𝑤_0−𝑤_𝑎) ( and ~ 15 𝑚𝑖𝑛𝑠 UNBINNED)
+------------------------------------------------------------------------------------------
 
+------------------------------------------------------------------------------------------
 Binned
-WFIT ~ 0.03 𝑚𝑖𝑛𝑠 for 1 simulation sample X 1 systematics (𝑤𝐶𝐷𝑀) ( and ~ 1 𝑚𝑖𝑛𝑠 UNBINNED )
-WFIT ~ 2 𝑚𝑖𝑛𝑠 for 1 simulation sample X 1 systematics (𝑤_0−𝑤_𝑎) ( and ~ 15 𝑚𝑖𝑛𝑠 UNBINNED )
-
-Binned
-Cosmosis ~10 mins  for 1 sample X 1 systematics using Emcee for SN Only ~ 2 million points
-Cosmosis >24  𝐻𝑟𝑠 for 1 sample X 1 systematics using MH for SN + Planck Full
-Cosmosis ~5  𝐻𝑟𝑠     for 1 sample X 1 systematics using Emcee for SN + Planck Fast + BAO
+Cosmosis ~10 mins  for 1 sample X 1 systematics using Emcee for `SN Only` ~ 2 million points
+Cosmosis >24 𝐻𝑟𝑠   for 1 sample X 1 systematics using MH for SN + Planck Full
+Cosmosis ~5  𝐻𝑟𝑠   for 1 sample X 1 systematics using Emcee for SN + Planck Fast + BAO
 Un-Binned
-Cosmosis >24  𝐻𝑟𝑠 for 1 sample X 1 systematics using Emcee for SN + Planck Fast + BAO
+Cosmosis >24 𝐻𝑟𝑠   for 1 sample X 1 systematics using Emcee for SN + Planck Fast + BAO
+------------------------------------------------------------------------------------------
