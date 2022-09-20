@@ -21,4 +21,4 @@ An example script to submit job in CORI with these inputs, is stored in `submit_
 The output is stored in `output` directory. For plots and visualization, the `Firecrown_Plot.ipynb` can be consulted. 
 
 
-A file named `Resource` is created for runtime estimations using cosmosis.
+A file named `Resource.txt` is created for an approximate runtime estimations using cosmosis.
