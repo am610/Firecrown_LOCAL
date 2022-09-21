@@ -10,7 +10,7 @@ WFIT ~ 2    𝑚𝑖𝑛𝑠 for 1 simulation sample X 1 systematics (𝑤_0−�
 
 ------------------------------------------------------------------------------------------
 Binned
-Cosmosis ~10 mins  for 1 sample X 1 systematics using Emcee for `SN Only` ~ 2 million points
+Cosmosis ~1  𝐻𝑟𝑠   for 1 sample X 1 systematics using Emcee for SN Only ~ 100 K  points
 Cosmosis >24 𝐻𝑟𝑠   for 1 sample X 1 systematics using MH    for SN + Planck Full
 Cosmosis ~5  𝐻𝑟𝑠   for 1 sample X 1 systematics using Emcee for SN + Planck Fast + BAO
 Un-Binned
